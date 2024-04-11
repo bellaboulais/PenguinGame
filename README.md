@@ -2,11 +2,11 @@
 Project-Based Object Oriented Programming Class\
 Virtual World Project\
 CSC 203, Fall '22\
-Java\
+Java
 
 # IDE
 IntelliJe\
-External Libraries: openjdk-18\
+External Libraries: openjdk-18
 
 # Game Description
 A single player game, where the user spawns as a Penguin next to an igloo.
@@ -15,10 +15,10 @@ and automatically navigate towards the penguin. Sharks cause 1 health damage whe
 contact with the penguin, but the penguin can revive its health by eating the fish, which are
 equivalent to the health status of the penguin. If the penguin  is at max health, the player
 can go to the igloo to "drop off" said fish. Lastly, birds populate and eat the fish bones,
-which populate a new fish!
+which populate a new fish!\
 
-* To move around: AWSD
-* To move view: arrow keys
+To move around: AWSD\
+To move view: arrow keys
 
 # Known Bugs
 * Birds continuously populate
