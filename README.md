@@ -6,9 +6,7 @@ Project-Based Object Oriented Programming class project. 1-player simulation.
 
 # IDE
 IntelliJe
-
-# External Libraries
-<openjdk-18>
+External Libraries: openjdk-18
 
 # Game Description
 A single player game, where the user spawns as a Penguin next to an igloo.
@@ -19,8 +17,8 @@ equivalent to the health status of the penguin. If the penguin  is at max health
 can go to the igloo to "drop off" said fish. Lastly, birds populate and eat the fish bones,
 which populate a new fish!
 
-To move around: AWSD
-To move view: <arrow keys>
+* To move around: AWSD
+* To move view: arrow keys
 
 # Known Bugs
 * Birds continuously populate
