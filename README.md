@@ -39,6 +39,7 @@ There are 8 entities, which act according to the following rules:
     * the ice blocks are not just a background image as it blocks entity paths
 4. SHARK
     * navigates towards the player and causes 1 health damage
+    * transforms the nearest FISH entity into a BIRD entity
 5. FISH BONES
     * a stump does not animate or complete any actions
     * it is a destination for FAIRY entities
