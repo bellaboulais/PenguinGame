@@ -1,14 +1,14 @@
-# PenguinGame
+# Penguin Game
 Project-Based Object Oriented Programming Class\
 Virtual World Project\
 CSC 203, Fall '22\
 Java
 
-# IDE
+## IDE
 IntelliJe\
 External Libraries: openjdk-18
 
-# Game Description
+## Game Description
 A single player game, where the user spawns as a Penguin next to an igloo.
 The goal is to not be killed by sharks. Sharks can be populated by clicking on a water square,
 and automatically navigate towards the penguin. Sharks cause 1 health damage when coming into
@@ -20,12 +20,12 @@ which populate a new fish!\
 To move around: AWSD\
 To move view: arrow keys
 
-# Known Bugs
+## Known Bugs
 * Birds continuously populate
 * Player can get trapped between FISH, BIRD, and SHARK entities and be stuck in continuous loop
 * Clicking too fast causes program to fail
 
-# Simulation Rules
+## Simulation Rules
 
 There are 8 entities, which act according to the following rules:
 1. IGLOO:
