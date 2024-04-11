@@ -21,9 +21,9 @@ To move around: AWSD\
 To move view: arrow keys
 
 ## Known Bugs
-* Birds continuously populate
 * Player can get trapped between FISH, BIRD, and SHARK entities and be stuck in continuous loop
 * Clicking too fast causes program to fail
+
 
 ## Simulation Rules
 
