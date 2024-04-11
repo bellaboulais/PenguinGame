@@ -1,12 +1,12 @@
 # PenguinGame
-Virtual World Project
-CSC 203, Fall '22
-Java
-Project-Based Object Oriented Programming class project. 1-player simulation. 
+Project-Based Object Oriented Programming Class\
+Virtual World Project\
+CSC 203, Fall '22\
+Java\
 
 # IDE
-IntelliJe
-External Libraries: openjdk-18
+IntelliJe\
+External Libraries: openjdk-18\
 
 # Game Description
 A single player game, where the user spawns as a Penguin next to an igloo.
