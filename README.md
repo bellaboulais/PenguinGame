@@ -15,7 +15,7 @@ and automatically navigate towards the penguin. Sharks cause 1 health damage whe
 contact with the penguin, but the penguin can revive its health by eating the fish, which are
 equivalent to the health status of the penguin. If the penguin is at max health, the player
 can go to the igloo to "drop off" said fish. Lastly, upon clicking to populate a shark, the
-nearest fish is trasnformed into a bird entity. Birds can eat the fish bones and create another fish!\
+nearest fish is trasnformed into a bird entity. Birds can eat the fish bones and create another fish!
 
 To move around: AWSD\
 To move view: arrow keys
