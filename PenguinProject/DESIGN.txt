@@ -1,0 +1,5 @@
+tryAddEntity(), addEntity(), moveEntity(), removeEntity(), removeEntityAt() 
+	- Put in WorldModel class, because they are affecting the entities that populate the world.
+
+transform* fucntions
+	- Put in Entity, because they affect how the entity will move

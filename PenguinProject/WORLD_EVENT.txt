@@ -1,0 +1,6 @@
+1. To trigger the event, you only need to click on any unoccupied space.
+2. When triggered, the pressed square and cardinal neighbors background should change to seaweed,
+    a shark will appear, and the nearest fish will turn into a bird.
+3. The nearest fish turns into, and acts, like the bird entity.
+4. The new entity is a shark, which chases the player (penguin). If close, the shark attacks the
+    player's health until it is zero, and then prints the message "game over".
